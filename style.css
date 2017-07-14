@@ -57,7 +57,7 @@ header{
 }
 .header__marker{
   position: absolute;
-  right: 45px;
+  right: 5px;
 }
 .header__menu{
   margin: 0;
@@ -92,8 +92,11 @@ header{
   border-radius: 2px;
   padding: 5px;
 }
-.header--logo{
+.header__logo{
   margin-top: 0;
+}
+.header__logo__img{
+	margin-top: 0;
 }
 
 .wraper{
